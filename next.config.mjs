@@ -5,7 +5,7 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: 'github.com',
-        pathname: '/**', // Permite todas as imagens no domínio
+        pathname: '/**',
       },
     ],
   },
